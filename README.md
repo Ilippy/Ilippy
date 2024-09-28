@@ -18,13 +18,13 @@ In my free time, I enjoy roller skating, fitness, and swimming.
 
 ## CERTIFICATIONS & COURSES  
 - Web Development in Python, Geekbrains — 2022-2023  
-- Indie Programming Course in Python, Stepik — 2023  
-- Functional Programming in Python, Stepik — 2024  
-- OOP: Object-Oriented Programming in Python, Stepik — 2024  
-- Advanced Python: Charge Your Batteries, Stepik — 2024  
-- Django 5 for Beginners, Stepik — 2024  
-- Django, Shall We Dance? Stepik — 2024  
-- Interactive SQL Trainer, Stepik — 2024  
+- [Indie Programming Course in Python, Stepik](https://stepik.org/cert/1963551) — 2023  
+- [Functional Programming in Python, Stepik](https://stepik.org/cert/2555659) — 2024  
+- [OOP: Object-Oriented Programming in Python, Stepik](https://stepik.org/cert/2030165) — 2024  
+- [Advanced Python: Charge Your Batteries, Stepik](https://stepik.org/cert/2266545) — 2024  
+- [Django 5 for Beginners, Stepik](https://stepik.org/cert/2448749) — 2024  
+- [Django, Shall We Dance? Stepik](https://stepik.org/cert/2389112) — 2024  
+- [Interactive SQL Trainer, Stepik](https://stepik.org/cert/2164573) — 2024  
 
 
 <!--
