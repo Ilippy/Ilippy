@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About me:
+## ABOUT ME:
 Programming, for me, is more than just a job—it's a form of creative self-expression. 
 Through code, I can bring ideas to life, build something new, and solve real-world problems using logic and technology.
 
