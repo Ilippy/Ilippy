@@ -1,12 +1,20 @@
 ## Hi there 👋
 
+## **About me**:
+Programming, for me, is more than just a job—it's a form of creative self-expression. 
+Through code, I can bring ideas to life, build something new, and solve real-world problems using logic and technology.
+
+I value Python for its simplicity, flexibility, and clarity. An important aspect of work for me is connecting with others who share my passion for programming and technology.
+
+In my free time, I enjoy roller skating, fitness, and swimming.
+
 ## SKILLS  
-- Programming Languages: Python, SQL, HTML/CSS, JavaScript (basic)
-- Frameworks and Libraries: Django, Flask, Pandas, NumPy, Requests  
-- Databases: PostgreSQL, MySQL, SQLite
-- Tools and Technologies: Git, GitHub, Docker (basic), Linux/Unix (basic), VS Code  
-- Familiar with Development Methodologies: Agile (Scrum, Kanban)  
-- Testing Tools: pytest, unittest  
+- **Programming Languages**: Python, SQL, HTML/CSS, JavaScript (basic)
+- **Frameworks and Libraries**: Django, Flask, Pandas, NumPy, Requests  
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Tools and Technologies**: Git, GitHub, Docker (basic), Linux/Unix (basic), VS Code  
+- **Familiar with Development Methodologies**: Agile (Scrum, Kanban)  
+- **Testing Tools**: pytest, unittest  
 
 ## CERTIFICATIONS & COURSES  
 - Web Development in Python, Geekbrains — 2022-2023  
